@@ -1,0 +1,9 @@
+Privacy Policy for Video to Slides - Lecture Slide Catcher
+
+Last updated: November 2026
+
+Video to Slides - Lecture Slide Catcher operates 100% locally inside your web browser. We do not collect, transmit, store on external servers, or sell any personal data, browsing history, video URLs, or captured slide images.
+
+All captured screenshots, timestamps, and detection sensitivity preferences remain strictly on your local device via Chrome's local storage API (chrome.storage.local) and are permanently deleted whenever you click "Clear All" or uninstall the extension.
+
+Contact: [Your Email Address]
